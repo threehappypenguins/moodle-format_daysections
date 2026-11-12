@@ -4,7 +4,7 @@ Moodle course format that shows the course as numbered day sections (Day 1, Day 
 
 ## Requirements
 
-- Moodle 5.0+ (see `version.php`)
+- Moodle 5.2–5.3 (see `version.php`)
 - `format_topics`
 
 ## Install
